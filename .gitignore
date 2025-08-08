@@ -1,0 +1,11 @@
+.venv/
+
+dataset/
+
+output/
+
+output_new/
+
+crops_for_labeling/
+
+__pycache__/

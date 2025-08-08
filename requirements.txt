@@ -1,0 +1,6 @@
+segment-anything-py
+opencv-python 
+matplotlib 
+pillow 
+tqdm 
+pandas
