@@ -1,0 +1,46 @@
+# Priority Classes Example
+# One class ID per line (from Finalized List.csv)
+# Start with the most important classes for your use case
+
+# Common Furniture (10 classes)
+0   # Sofa
+1   # Couch
+10  # Armchair
+12  # Dining Chair
+13  # Office Chair
+90  # Dining Table
+92  # Coffee Table
+103 # Bench
+111 # TV Stand
+157 # Kitchen Island
+
+# Major Appliances (15 classes)
+161 # Refrigerator
+171 # Dishwasher
+175 # Microwave
+237 # Washing Machine
+239 # Dryer
+250 # Air Conditioner
+251 # Window AC
+246 # Vacuum Cleaner
+256 # Space Heater
+258 # Fan
+
+# Electronics (10 classes)
+319 # Laptop
+325 # Monitor
+366 # Smart TV
+282 # Projector
+288 # Game Console
+333 # Printer
+317 # Personal Computer
+
+# Common Tools (5 classes)
+594 # Hammer
+599 # Screwdriver
+626 # Power Drill
+635 # Shovel
+
+# Total: 40 priority classes
+# Recommendation: Start with 20-50 classes, then expand
+

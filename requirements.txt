@@ -4,3 +4,8 @@ matplotlib
 pillow 
 tqdm 
 pandas
+ultralytics  # YOLOv8 for training custom object detection models
+torch
+torchvision
+pyyaml
+requests

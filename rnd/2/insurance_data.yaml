@@ -1,0 +1,121 @@
+path: /Users/pvuda/Documents/Segment-Anything-Model-Toolkit/insurance_ready_dataset
+train: images/train
+val: images/val
+nc: 116
+names:
+  0: Sofa
+  1: Couch
+  2: Sectional
+  3: Coffee Table
+  4: TV Stand
+  5: TV
+  6: Bookshelf
+  7: Armchair
+  8: Recliner
+  9: End Table
+  10: Floor Lamp
+  11: Table Lamp
+  12: Rug
+  13: Curtains
+  14: Bed
+  15: Nightstand
+  16: Dresser
+  17: Wardrobe
+  18: Vanity
+  19: Mirror
+  20: Mattress
+  21: Pillow
+  22: Bedside Table
+  23: Refrigerator
+  24: Dishwasher
+  25: Microwave
+  26: Oven
+  27: Stove
+  28: Range Hood
+  29: Dining Table
+  30: Dining Chair
+  31: Kitchen Island
+  32: Blender
+  33: Toaster
+  34: Coffee Maker
+  35: Food Processor
+  36: Mixer
+  37: Pressure Cooker
+  38: Air Fryer
+  39: Desk
+  40: Office Chair
+  41: Filing Cabinet
+  42: Monitor
+  43: Computer
+  44: Laptop
+  45: Printer
+  46: Keyboard
+  47: Mouse
+  48: Desk Lamp
+  49: Washing Machine
+  50: Dryer
+  51: Iron
+  52: Ironing Board
+  53: Laundry Basket
+  54: Vacuum Cleaner
+  55: Toilet
+  56: Sink
+  57: Bathtub
+  58: Shower
+  59: Towel Rack
+  60: Cabinet
+  61: Air Conditioner
+  62: Heater
+  63: Fan
+  64: Thermostat
+  65: Water Heater
+  66: Camera
+  67: Speaker
+  68: Soundbar
+  69: Projector
+  70: Game Console
+  71: Tablet
+  72: Smartphone
+  73: Headphones
+  74: Router
+  75: Modem
+  76: Watch
+  77: Jewelry
+  78: Ring
+  79: Necklace
+  80: Bracelet
+  81: Earrings
+  82: Handbag
+  83: Suitcase
+  84: Backpack
+  85: Guitar
+  86: Piano
+  87: Keyboard Instrument
+  88: Drum Set
+  89: Violin
+  90: Saxophone
+  91: Trumpet
+  92: Bike
+  93: Treadmill
+  94: Exercise Bike
+  95: Elliptical Machine
+  96: Weight Bench
+  97: Dumbbells
+  98: Rowing Machine
+  99: Lawn Mower
+  100: Chainsaw
+  101: Power Drill
+  102: Pressure Washer
+  103: Air Compressor
+  104: Ladder
+  105: Toolbox
+  106: Golf Clubs
+  107: Surfboard
+  108: Kayak
+  109: Fishing Rod
+  110: Tent
+  111: Grill
+  112: Fire Pit
+  113: Patio Furniture
+  114: Outdoor Chair
+  115: Hammock

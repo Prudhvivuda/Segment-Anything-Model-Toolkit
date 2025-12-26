@@ -1,0 +1,984 @@
+class_id,class_name
+0,Sofa
+1,Couch
+2,Sectional
+3,Recliner
+4,Futon
+5,Sofa Bed
+6,Fold-out Couch
+7,Tufted Sofa
+8,Leather Sofa
+9,Fabric Sofa
+10,Armchair
+11,Accent Chair
+12,Dining Chair
+13,Office Chair
+14,Gaming Chair
+15,Lounge Chair
+16,Rocking Chair
+17,Wingback Chair
+18,Reclining Chair
+19,Barstool
+20,Counter Stool
+21,Drafting Chair
+22,kitchen Chair
+23,Rattan Chair
+24,Bamboo Chair
+25,Upholstered Chair
+26,Stackable Chair
+27,Patio Chair
+28,Adirondack Chair
+29,Beanbag Chair
+30,Folding Armchair
+31,Padded Chair
+32,Stool
+33,Step Stool
+34,Folding Stool
+35,Vanity Stool
+36,Bar Stool
+37,Pouf
+38,Ottoman
+39,Footstool
+40,Tuffet
+41,Twin Bed
+42,Full Bed
+43,Queen Bed
+44,King Bed
+45,Bunk Bed
+46,Loft Bed
+47,Canopy Bed
+48,Four-poster Bed
+49,Platform Bed
+50,Murphy Bed
+51,Floating Bed
+52,Storage Bed
+53,Bed Frame
+54,Headboard
+55,Footboard
+56,Mattress
+57,Bed Skirt
+58,Quilt
+59,Pillow
+60,Throw Pillow
+61,Body Pillow
+62,Sheet Set
+63,Pillowcase
+64,Bedspread
+65,Nightstand
+66,Bedside Table
+67,Dresser
+68,Chest of Drawers
+69,Tallboy
+70,Vanity
+71,Dressing Table
+72,Makeup Table
+73,Changing Table
+74,Wardrobe
+75,Armoire
+76,Storage Cabinet
+77,Cabinet
+78,Drawer Unit
+79,Sideboard
+80,Cupboard
+81,Storage Chest
+82,Trunk
+83,Shoe Cabinet
+84,Shoe Rack
+85,Filing Cabinet
+86,Rolling Cabinet
+87,Pantry Cabinet
+88,Bookshelf
+89,Bookcase
+90,Dining Table
+91,Kitchen Table
+92,Coffee Table
+93,End Table
+94,Console Table
+95,Entryway Table
+96,Accent Table
+97,Folding Table
+98,Bar Table
+99,Tray Table
+100,Desks
+101,Drafting Table
+102,Lap Desk
+103,Bench
+104,Storage Bench
+105,Dining Bench
+106,Hall Bench
+107,Entryway Bench
+108,Garden Bench
+109,Outdoor Bench
+110,Workbench
+111,TV Stand
+112,Media Console
+113,TV Cabinet
+114,Lowboard
+115,Patio Sofa
+116,Porch Swing
+117,Hammock
+118,Picnic Table
+119,Garden Chair
+120,Folding Lounge
+121,Outdoor Dining Set
+122,Patio Table
+123,Poolside Lounger
+124,Wall Mirror
+125,Full-Length Mirror
+126,Vanity Mirror
+127,Decorative Mirror
+128,Mirror Cabinet
+129,Laundry Basket
+130,Hall Tree
+131,Coat Rack
+132,Umbrella Stand
+133,Entry Shelf
+134,Entry Table
+135,File Cabinet
+136,Desk Organizer
+137,Monitor Stand
+138,Mobile Pedestal
+139,Under-bed Storage
+140,Rolling Cart
+141,Nesting Table
+142,Stacking Stool
+143,Drop-leaf Table
+144,Wall Bed
+145,Side Console
+146,Hall Table
+147,Glass Display Cabinet
+148,China Cabinet
+149,Curio Cabinet
+150,Wine Rack
+151,Bar Cart
+152,Liquor Cabinet
+153,Cocktail Table
+154,Rolling Shelf
+155,Cubby Storage
+156,Record Cabinet
+157,Kitchen Island
+158,Bar Unit
+159,Plant Stand
+160,Room Divider
+161,Refrigerator
+162,Freezer
+163,Upright Freezer
+164,Chest Freezer
+165,Mini Fridge
+166,Wine Cooler
+167,Beverage Fridge
+168,Ice Maker
+169,Water Dispenser
+170,Kegerator
+171,Dishwasher
+172,Built-in Dishwasher
+173,Portable Dishwasher
+174,Countertop Dishwasher
+175,Microwave
+176,Countertop Microwave
+177,Wall Oven
+178,Double Wall Oven
+179,Single Wall Oven
+180,Steam Oven
+181,Toaster Oven
+182,Conventional Oven
+183,Range
+184,Cooktop
+185,Range Hood
+186,Downdraft Vent
+187,Air Fryer
+188,Deep Fryer
+189,Slow Cooker
+190,Pressure Cooker
+191,Rice Cooker
+192,Steamer
+193,Sous Vide Cooker
+194,Bread Maker
+195,Food Dehydrator
+196,Roaster Oven
+197,Toaster
+198,Panini Press
+199,Waffle Maker
+200,Electric Griddle
+201,Electric Skillet
+202,Coffee Maker
+203,Espresso Machine
+204,Coffee Grinder
+205,French Press
+206,Kettle
+207,Electric Kettle
+208,Blender
+209,Food Processor
+210,Hand Mixer
+211,Stand Mixer
+212,Juicer
+213,Ice Cream Maker
+214,Popcorn Maker
+215,Cotton Candy Machine
+216,Pizza Oven
+217,Indoor Grill
+218,Outdoor Grill
+219,Smoker
+220,Pellet Grill
+221,Fire Pit Grill
+222,Rotisserie
+223,BBQ Smoker
+224,Smart Oven
+225,Smart Fridge
+226,Smart Microwave
+227,Smart Dishwasher
+228,Smart Coffee Maker
+229,Smart Kettle
+230,Smart Range
+231,Smart Hood
+232,Smart Toaster
+233,Smart Air Fryer
+234,Smart Washer
+235,Smart Dryer
+236,Smart Thermostat
+237,Washing Machine
+238,Washer Dryer Combo
+239,Dryer
+240,Portable Washer
+241,Portable Dryer
+242,Laundry Pedestal
+243,Clothes Steamer
+244,Steam Iron
+245,Ironing Board
+246,Vacuum Cleaner
+247,Carpet Cleaner
+248,Steam Cleaner
+249,Floor Polisher
+250,Air Conditioner
+251,Window AC
+252,Portable AC
+253,Air Purifier
+254,Dehumidifier
+255,Humidifier
+256,Space Heater
+257,Oil-Filled Radiator
+258,Fan
+259,Tower Fan
+260,Desk Fan
+261,Ceiling Fan
+262,Floor Fan
+263,Ceiling Exhaust
+264,Water Heater
+265,Tankless Water Heater
+266,Home Boiler
+267,Radiator Heater
+268,Baseboard Heater
+269,Thermostat
+270,Fire Extinguisher
+271,Security Camera
+272,Doorbell Camera
+273,Home Hub
+274,Rechargeable Battery Station
+275,Alarm Clock
+276,Smart Clock
+277,White Noise Machine
+278,Home Speaker
+279,Smart Speaker
+280,Soundbar
+281,Subwoofer
+282,Projector
+283,Home Theater Receiver
+284,Streaming Device
+285,Cable Box
+286,Blu-ray Player
+287,DVD Player
+288,Game Console
+289,CD Player
+290,Cassette Player
+291,Turntable
+292,Headphone Amp
+293,Audio Receiver
+294,Digital Photo Frame
+295,Electric Fireplace
+296,Towel Warmer
+297,Shoe Dryer
+298,Pet Feeder
+299,Pet Water Fountain
+300,Reptile Heat Lamp
+301,Insect Zapper
+302,Ceiling Light
+303,Floor Lamp
+304,Table Lamp
+305,Desk Lamp
+306,Vanity Light
+307,Lantern
+308,Flashlight
+309,Cordless Drill
+310,Electric Screwdriver
+311,Soldering Iron
+312,Heat Gun
+313,Shop Vacuum
+314,Electric Paint Sprayer
+315,Leaf Blower
+316,Electric Pressure Washer
+317,Personal Computer
+318,Garage Heater
+319,Laptop
+320,Desktop Computer
+321,Tablet
+322,Smartphone
+323,Smartwatch
+324,E-Reader
+325,Monitor
+326,Touchscreen Monitor
+327,Computer Mouse
+328,Gaming Mouse
+329,Keyboard
+330,Stylus
+331,Drawing Tablet
+332,Scanner
+333,Printer
+334,3D Printer
+335,Fax Machine
+336,Copier
+337,Webcam
+338,Microphone
+339,Audio Mixer
+340,Headphones
+341,Wireless Earbuds
+342,Gaming Headset
+343,VR Headset
+344,Augmented Reality Glasses
+345,Smart Glasses
+346,Fitbit
+347,Thermometer
+348,Glucometer
+349,Smart Scale
+350,Digital Scale
+351,Baby Monitor
+352,Video Baby Monitor
+353,Walkie Talkie
+354,GPS Navigator
+355,GPS Tracker
+356,Cameras
+357,DSLR Camera
+358,Mirrorless Camera
+359,Camcorder
+360,GoPro
+361,Camera Gimbal
+362,Camera Flash
+363,External Hard Drive
+364,Portable SSD
+365,Wireless Charger
+366,Smart TV
+367,OLED TV
+368,LED TV
+369,QLED TV
+370,4K TV
+371,8K TV
+372,Portable Projector
+373,Home Theater Projector
+374,Projector Screen
+375,Home Theater System
+376,Stereo Receiver
+377,AV Receiver
+378,Speaker
+379,Ceiling Speaker
+380,Wall Speaker
+381,Sound Dock
+382,Media Streamer
+383,Streaming Stick
+384,DVR
+385,PlayStation
+386,Xbox
+387,Nintendo Switch
+388,Game Controller
+389,Racing Wheel
+390,VR Controller
+391,Gaming Monitor
+392,Modem
+393,Router
+394,WiFi Extender
+395,Mesh WiFi System
+396,DSL Modem
+397,SIM Router
+398,Smart Pet Feeder
+399,Voice Assistant Device
+400,Alexa Device
+401,Google Nest
+402,Apple HomePod
+403,Soldering Station
+404,Electronic Scale
+405,Electronic Timer
+406,Smart Timer
+407,Interactive Display
+408,Touch Panel
+409,Portable Monitor
+410,Watch
+411,Bracelet
+412,Necklace
+413,Pendant
+414,Ring
+415,Earrings
+416,Stud Earrings
+417,Hoop Earrings
+418,Cufflinks
+419,Tie Clip
+420,Tie Bar
+421,Brooch
+422,Sunglasses
+423,Eyeglasses
+424,Reading Glasses
+425,Contact Lenses
+426,Lens Case
+427,Belt
+428,Wallet
+429,Card Holder
+430,Coin Purse
+431,Earbuds Case
+432,Bluetooth Headset
+433,Tie
+434,Bow Tie
+435,Pocket Square
+436,Cuff Bracelets
+437,Anklet
+438,Charm Bracelet
+439,Watch Case
+440,Jewelry Box
+441,Sunglasses Case
+442,Umbrella
+443,Shoe Inserts
+444,Laptop Sleeve
+445,Laptop Bag
+446,Camera Bag
+447,Laptop Backpack
+448,Wristlet
+449,Briefcase
+450,Charger Case
+451,Sunglasses Holder
+452,Reading Glasses Holder
+453,Travel Pillow
+454,Neck Pillow
+455,Ear Plugs
+456,Stylus Pen
+457,Laptop Stand
+458,Tablet Stand
+459,Camera Tripod
+460,Camera Battery
+461,Charging Dock
+462,Docking Station
+463,Wireless Mouse
+464,Wireless Keyboard
+465,Bluetooth Adapter
+466,Joystick
+467,Portable Speaker
+468,Speaker Stand
+469,Microphone Stand
+470,Window Screen
+471,Music Stand
+472,Metronome
+473,Tuner
+474,Drumsticks
+475,Stylus Holder
+476,Tablet Case
+477,Mobile Phone Holder
+478,Ring Light
+479,Photography Lighting
+480,Light Stand
+481,Green Screen
+482,Chef’s Knife
+483,Paring Knife
+484,Bread Knife
+485,Utility Knife
+486,Cleaver
+487,Boning Knife
+488,Fillet Knife
+489,Carving Knife
+490,Santoku Knife
+491,Knife Sharpener
+492,Cutting Board
+493,Wooden Cutting Board
+494,Plastic Cutting Board
+495,Bamboo Cutting Board
+496,Chopping Block
+497,Digital Kitchen Scale
+498,Manual Kitchen Scale
+499,Citrus Juicer
+500,Manual Juicer
+501,Electric Juicer
+502,Lemon Squeezer
+503,Can Opener
+504,Wine Stopper
+505,Wine Aerator
+506,Food Thermometer
+507,Instant Read Thermometer
+508,Oven Thermometer
+509,Kitchen Timer
+510,Hand Blender
+511,Tea Kettle
+512,Tea Set
+513,Coffee Press
+514,Thermos
+515,Travel Mug
+516,Drinking Glass
+517,Wine Glass
+518,Champagne Flute
+519,Beer Mug
+520,Shot Glass
+521,Martini Glass
+522,Dinner Plate
+523,Dessert Plate
+524,Cutting Board Set
+525,Double Boiler
+526,Steam Cooker
+527,Vacuum Sealer
+528,Meat Grinder
+529,Sausage Stuffer
+530,Wall Art
+531,Canvas Painting
+532,Abstract Art
+533,Framed Prints
+534,Photographs
+535,Posters
+536,Wall Clock
+537,Table Clock
+538,Mantel Clock
+539,Pendant Light
+540,Chandelier
+541,Candelabra
+542,Vase
+543,Glass Vase
+544,Ceramic Vase
+545,Flower Vase
+546,Decorative Vase
+547,Indoor Plant
+548,Faux Plant
+549,Bonsai Tree
+550,Terrarium
+551,Decorative Bowl
+552,Decorative Tray
+553,Decorative Plate
+554,Decorative Dish
+555,Decorative Box
+556,Sculpture
+557,Figurine
+558,Art Sculpture
+559,Decorative Sculpture
+560,Tapestry
+561,Woven Wall Hanging
+562,Bed Pillow
+563,Bolster Pillow
+564,Euro Pillow
+565,Bed Runner
+566,Curtain
+567,Office Storage
+568,Jewelry Stand
+569,Jewelry Holder
+570,Earring Holder
+571,Necklace Stand
+572,Cosmetic Organizer
+573,Makeup Mirror
+574,Cosmetic Tray
+575,Beauty Organizer
+576,Picture Frame
+577,Collage Frame
+578,Floating Frame
+579,Photo Album
+580,Picture Stand
+581,Decorative Basket
+582,Bean Bag Chair
+583,Decorative Fan
+584,Table Runner
+585,Tablecloth
+586,Serving Platter
+587,Decorative Platter
+588,Serving Cart
+589,Wine Glass Holder
+590,Decorative Jar
+591,Decorative Lantern
+592,Floor Vase
+593,Table Vase
+594,Hammer
+595,Claw Hammer
+596,Sledgehammer
+597,Ball Peen Hammer
+598,Mallet
+599,Screwdriver
+600,Flathead Screwdriver
+601,Phillips Screwdriver
+602,Torx Screwdriver
+603,Precision Screwdriver
+604,Allen Wrench
+605,Ratchet Wrench
+606,Combination Wrench
+607,Open-End Wrench
+608,Box-End Wrench
+609,Pipe Wrench
+610,Adjustable Wrench
+611,Torque Wrench
+612,Socket Set
+613,Crowbar
+614,Pry Bar
+615,Pliers
+616,Needle Nose Pliers
+617,Slip Joint Pliers
+618,Locking Pliers
+619,Tongue and Groove Pliers
+620,Diagonal Pliers
+621,Wire Cutters
+622,Bolt Cutters
+623,Pipe Cutter
+624,Jigsaw
+625,Saw
+626,Power Drill
+627,Drill Press
+628,Impact Driver
+629,Angle Grinder
+630,Rotary Tool
+631,Sanders
+632,Electric Plane
+633,Hand Plane
+634,Chisels
+635,Shovel
+636,Pickaxe
+637,Tree Saw
+638,Chainsaw
+639,Ax
+640,Machete
+641,Hatchet
+642,Lawn Mower
+643,Weed Whacker
+644,Hedge Trimmer
+645,Pressure Washer
+646,Air Compressor
+647,Nail Gun
+648,Staple Gun
+649,Pneumatic Tools
+650,Welding Machine
+651,MIG Welder
+652,Stick Welder
+653,TIG Welder
+654,Plasma Cutter
+655,Infrared Thermometer
+656,Laser Level
+657,Micrometer
+658,Vise
+659,Bench Vise
+660,Drill Bit Set
+661,Caulk Gun
+662,Paint Sprayer
+663,Ladders
+664,Scaffold
+665,Work Gloves
+666,Safety Glasses
+667,Face Shield
+668,Respirator Mask
+669,Work Boots
+670,Cordless Saw
+671,Cordless Jigsaw
+672,Cordless Angle Grinder
+673,Cordless Drill/Driver
+674,Cordless Impact Driver
+675,Cordless Reciprocating Saw
+676,Cordless Circular Saw
+677,Cordless Nail Gun
+678,Cordless Stapler
+679,Laser Distance Measurer
+680,Digital Thermometer
+681,Hydraulic Jack
+682,Car Jack
+683,Jack Stands
+684,Creeper
+685,Wrench
+686,Pneumatic Jackhammer
+687,Power Washer Hose
+688,Desk
+689,Computer Desk
+690,Executive Desk
+691,Writing Desk
+692,Standing Desk
+693,Adjustable Desk
+694,Conference Table
+695,Meeting Table
+696,Bluetooth Speaker
+697,Wireless Headphones
+698,Bluetooth Earbuds
+699,Mouse
+700,Computer Stand
+701,Computer Monitor
+702,Dual Monitor Stand
+703,Monitor Mount
+704,Computer Tower
+705,Document Scanner
+706,All-in-One Printer
+707,Laser Printer
+708,Inkjet Printer
+709,Rolling Chair
+710,High Back Chair
+711,Swivel Chair
+712,Modular Sofa
+713,Document Safe
+714,Office Safe
+715,Side Table
+716,Push Mower
+717,Riding Mower
+718,Lawn Trimmer
+719,Backpack Blower
+720,Handheld Blower
+721,Outdoor Storage Shed
+722,Tool Shed
+723,Greenhouse
+724,Dining Set
+725,Patio Chairs
+726,Stackable Chairs
+727,Outdoor Sofa
+728,Sectional Sofa
+729,Swing
+730,Garden Swing
+731,Swing Chair
+732,Hammock Chair
+733,Outdoor Bar
+734,Poolside Chair
+735,Fire Pit
+736,Chiminea
+737,Outdoor Speaker
+738,Water Fountain
+739,Paintings
+740,Oil Painting
+741,Watercolor Painting
+742,Acrylic Painting
+743,Mixed Media Artwork
+744,Pastel Artwork
+745,Charcoal Drawing
+746,Ink Drawing
+747,3D Artwork
+748,Art Print
+749,Lithograph
+750,Serigraph
+751,Etching
+752,Woodcut
+753,Giclee Print
+754,Framed Art
+755,Contemporary Art
+756,Modern Art
+757,Vintage Art
+758,Bronze Sculpture
+759,Marble Sculpture
+760,Wood Sculpture
+761,Glass Sculpture
+762,Ceramic Sculpture
+763,Resin Sculpture
+764,Bust Sculpture
+765,Art Glass
+766,Collectible Dolls
+767,Porcelain Doll
+768,Antique Doll
+769,Action Figure
+770,Vinyl Figure
+771,Movie Memorabilia
+772,Music Memorabilia
+773,Sports Memorabilia
+774,Antique Coins
+775,Collectible Coins
+776,Gold Coins
+777,Silver Coins
+778,Stamps
+779,Stamp Collection
+780,Antique Maps
+781,Vintage Maps
+782,Historical Prints
+783,Film Camera
+784,Digital Camera
+785,Music Instrument
+786,Record Collection
+787,Record Player
+788,Antique Jewelry
+789,Vintage Jewelry
+790,Gold Jewelry
+791,Silver Jewelry
+792,Beaded Jewelry
+793,Gemstone Jewelry
+794,Watch Collection
+795,Pocket Watch
+796,Vintage Watches
+797,Ring Collection
+798,Brooch Collection
+799,Necklace Collection
+800,Bracelet Collection
+801,Wedding Band
+802,Designer Handbag
+803,Vintage Handbag
+804,Leather Handbag
+805,Clutch Bag
+806,Luxury Handbag
+807,Collectible Handbag
+808,Silk Scarf
+809,Vintage Scarf
+810,Designer Scarf
+811,Antique Furniture
+812,Carved Wood Furniture
+813,Porcelain Plates
+814,Collectible Vases
+815,Crystal Vase
+816,Collectible Sculpture
+817,Wood Carving
+818,Wooden Figurines
+819,Marble Figurine
+820,Sterling Silver Figurine
+821,Comics
+822,Toy Car Collection
+823,Collectible Knives
+824,Collectible Swords
+825,Cat Tree
+826,Cat Scratching Post
+827,Dog Playpen
+828,Pet Gate
+829,Stroller
+830,Automatic Pet Feeder
+831,Automatic Pet Waterer
+832,Pet Crate
+833,Acoustic Guitar
+834,Electric Guitar
+835,Classical Guitar
+836,Bass Guitar
+837,Electric Bass
+838,Ukulele
+839,Mandolin
+840,Banjo
+841,Lap Steel Guitar
+842,Steel Guitar
+843,Sitar
+844,Lute
+845,Bouzouki
+846,Charango
+847,Harp
+848,Grand Piano
+849,Upright Piano
+850,Electric Piano
+851,Synthesizer
+852,Organ
+853,Accordion
+854,Melodica
+855,Flute
+856,Piccolo
+857,Clarinet
+858,Oboe
+859,Bassoon
+860,Saxophone
+861,Alto Saxophone
+862,Tenor Saxophone
+863,Baritone Saxophone
+864,Trumpet
+865,Cornet
+866,Trombone
+867,Bass Trombone
+868,French Horn
+869,Tuba
+870,Sousaphone
+871,Violin
+872,Viola
+873,Cello
+874,Double Bass
+875,Drum Set
+876,Bagpipes
+877,Violin Bow
+878,Cello Bow
+879,Double Bass Bow
+880,Amplifier
+881,Mixer
+882,Soundboard
+883,Wind Instrument Case
+884,String Instrument Case
+885,Brass Instrument Case
+886,Guitar Case
+887,Piano Bench
+888,Christmas Tree
+889,Electric Heater
+890,Convection Heater
+891,Oil Filled Heater
+892,Ceramic Heater
+893,Industrial Heater
+894,Portable Air Conditioner
+895,Personal Air Cooler
+896,Christmas Outdoor Lawn Decorations
+897,Inflatable Christmas Decorations
+898,Holiday Snowman Lawn Ornament
+899,Santa Sleigh Lawn Decor
+900,Christmas Porch Swing
+901,Holiday Toy Train Set
+902,Ice Skates
+903,Sleds
+904,Ski Gear
+905,Snowboard
+906,Snow Saucers
+907,Ski Poles
+908,Snowboard Boots
+909,Ice Hockey Equipment
+910,Snow Shovel
+911,Portable Crib
+912,Baby Swing
+913,Bouncer Seat
+914,High Chair
+915,Booster Seat
+916,Car Seat
+917,Infant Car Seat
+918,Baby Carrier
+919,Baby Quilts
+920,Baby Bath Tub
+921,Toddler Rocking Chair
+922,Toddler Table and Chair Set
+923,Baby Gate with Door
+924,Toddler Car Seat
+925,Sound / Noise Machine
+926,Baby Sheet Set
+927,Baby Comforter
+928,Dumbbells
+929,Kettlebells
+930,Barbell
+931,Weight Plates
+932,Weight Bench
+933,Adjustable Dumbbell Set
+934,Power Rack
+935,Squat Rack
+936,Yoga Blocks
+937,Treadmill
+938,Elliptical Machine
+939,Bike
+940,Stationary Bike
+941,Spin Bike
+942,Rowing Machine
+943,Stair Climber
+944,Punching Bag
+945,Speed Bag
+946,Wrist Weights
+947,Ankle Weights
+948,Pitching Machine
+949,Golf Clubs
+950,Golf Bag
+951,Golf Cart
+952,Golf Driver
+953,Golf Putter
+954,Golf Irons
+955,Golf Wedges
+956,Golf Rangefinder
+957,Ski Equipment
+958,Ski Boots
+959,Ski Goggles
+960,Ski Helmet
+961,Cross-Country Ski Set
+962,Skis
+963,Snowboard Helmet
+964,Ice Hockey Skates
+965,Archery Bow
+966,Archery Quiver
+967,Rollerblades
+968,Roller Skate
+969,Surfboard
+970,Kayak
+971,Stand-Up Paddleboard (SUP)
+972,Fishing Rod
+973,Mountain Bike
+974,Road Bike
+975,Hybrid Bike
+976,Diving Mask
+977,Scuba Gear
+978,Canoe
+979,shower
+980,toilet
+981,sink
+982,bathtub
